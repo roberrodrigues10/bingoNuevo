@@ -1,0 +1,63 @@
+.col-1{
+    border: 3px solid rgb(202, 240, 251); 
+    background-color: #ddddddcc;
+    border-radius: 70%;
+    height: 65px;
+    margin: 5px;
+    text-align: center;
+    justify-content: center;
+    color: rgb(30, 49, 78);
+    font-size: 40px;
+    font-weight: bold;
+}
+.imagen{
+    margin: 0px 40px;
+    width: 600px;  
+    }
+.container{
+    width: 480px;
+    background-color: rgb(15, 20, 24);
+    border-radius: 10%;
+    margin-top: 10%;
+}
+.bingo{
+    color:rgb(203, 235, 249);
+    font-size: 100px;
+    font-weight: 900;
+    letter-spacing: 5px;
+    margin: -10px 50px -10px;
+}
+.col-4{
+    padding: 10px;
+}
+#b .Triplex-0-0, #b .Triplex-0-5,#b .Triplex-0-10, #b .Triplex-0-15, #b .Triplex-0-20{
+    background-color: aqua;
+}
+#i .Triplex-0-1, #i .Triplex-0-6, #i .Triplex-0-11, #i .Triplex-0-16, #i .Triplex-0-21{
+    background-color: aqua;
+}
+#n .Triplex-0-2, #n .Triplex-0-7, #n .Triplex-0-12, #n .Triplex-0-17, #n .Triplex-0-22{
+    background-color: aqua;
+}
+#g .Triplex-0-3, #g .Triplex-0-8, #g .Triplex-0-13, #g .Triplex-0-18, #g .Triplex-0-23{
+    background-color: aqua;
+}
+#o .Triplex-0-4, #o .Triplex-0-9, #o .Triplex-0-14, #o .Triplex-0-19, #o .Triplex-0-24{
+    background-color: aqua;
+}
+#x .Triplex-0-0, #x .Triplex-0-4, #x .Triplex-0-6, #x .Triplex-0-8, #x .Triplex-0-12, #x .Triplex-0-16, #x .Triplex-0-18, #x .Triplex-0-20, #x .Triplex-0-24{
+    background-color: aqua;
+}
+#xxx .Triplex-0-0, #xxx .Triplex-0-2, #xxx .Triplex-0-4, #xxx .Triplex-0-6, #xxx .Triplex-0-8, #xxx .Triplex-0-10, #xxx .Triplex-0-12, #xxx .Triplex-0-14, #xxx .Triplex-0-16, #xxx .Triplex-0-20, #xxx .Triplex-0-22{
+    background-color: aqua;
+}
+.contenedor{
+    margin: 0% 25%;
+    
+}
+
+.contBingo{
+    width: 600px;
+    flex-direction: column;
+    
+}
